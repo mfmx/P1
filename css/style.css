@@ -1,0 +1,34 @@
+.projectSession{
+ background-image: url(../images/projects/mainBG.png);
+    width:100%;
+    height:290px;
+}
+
+#startDiv{
+  background-image: url(../images/projects/bgstart1.png);
+  width:40%;
+    height:290px;
+    
+}
+#fondueDiv{ 
+    background:  url(../images/projects/fondueImg.png) right bottom no-repeat, url(../images/projects/fondueBG.png);
+    width:60%;
+    height:290px;
+    background-size:contain;
+  
+ 
+   
+}
+.whiteLine{
+ width:100%;
+     transform:rotate(-45deg);
+     -o-transform:rotate(-45deg);
+     -moz-transform:rotate(-45deg);
+     -webkit-transform:rotate(-45deg);}
+
+#potterDiv{
+   background: url(../images/projects/potterImg.png) right bottom no-repeat, url(../images/projects/rettangoloBgPotter.png);
+  width:100%;
+    height:145px; 
+      background-size:contain;
+}
